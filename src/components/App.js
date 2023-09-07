@@ -80,8 +80,8 @@ function App() {
   return (
     <div className="App">
       <div id='top'>
-      <Header /> 
-      <NavBar />
+        <Header /> 
+        <NavBar />
       </div>
         <Switch>
           <Route path='/reviews'>

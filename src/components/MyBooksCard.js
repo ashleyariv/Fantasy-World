@@ -4,13 +4,13 @@ function MyBookCard({book, removeFromMyList}) {
     return (
         <div className='card'>
             <img id='book-covers' src={book.image}/>
-            <h3>{book.name}</h3>
-            <h4>{book.author}</h4>
+            <h2 className='book-name'>{book.name}</h2>
+            <h4 className='authors'>{book.author}</h4>
             <button 
-                id='like-button'
+                className='like-button'
                 onClick={() => removeFromMyList(book.id)}
                 > Remove </button>
-            <p>{book.summary}</p>
+            <p className='summary'>{book.summary}</p>
         </div>
     )
 }

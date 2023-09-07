@@ -23,14 +23,15 @@ function ReviewsForm({reviews, addReview}) {
 
     return (
         <div className='page'>
-            <h1>Book Reviews 📝</h1>
-            <form id='form' onSubmit={handleSubmit}>
-                <input onChange={handleChange} value={formInput.name} type='text' name='name' placeholder='Book Name' />
-                <input onChange={handleChange} value={formInput.author} type='text' name='author' placeholder='Book Author' />
-                <input onChange={handleChange} value={formInput.review} type='text' name='review' placeholder='Thoughts...' />
-                <button type='submit'> 🖊 </button>
+            <h1 className='review-header'>Book Reviews</h1>
+            <form id='reviews' onSubmit={handleSubmit}>
+                <input className='review-input' onChange={handleChange} value={formInput.name} type='text' name='name' placeholder='Book Name' />
+                <input className='review-input' onChange={handleChange} value={formInput.author} type='text' name='author' placeholder='Book Author' />
+                <textarea id='textbox' rows="10" col="20" wrap="hard" maxLength="2000" placeholder="Thoughts..."></textarea>
+                {/* <input onChange={handleChange} value={formInput.review} type='text' name='review' placeholder='Thoughts...' /> */}
+                <button id='review-button' type='submit'>Publish 🖊</button>
             </form>
-            <div>
+            <div id='form'>
                 {reviews.map(review => {
                     return <ReviewCard key={review.id} review={review} />
                 })}

@@ -14,20 +14,15 @@
   text-align: center;
 }
 
-/* #top {
-  position: fixed;
-  width: 100%;
-} */
-
 .links {
-  background-color: rgba(118, 62, 62, 0.678);
+  background-color: black;
   font-size: 30px;
   padding: 10px 16px;
   text-decoration: none;
   font-weight: 800;
-  font-family: fantasy; 
+  font-family: impact, fantasy; 
   font-style: oblique;
-  color: rgb(140, 137, 137);
+  color: white;
 }
 
 .links:hover {
@@ -40,13 +35,13 @@
   background-repeat: no-repeat;
   background-size: cover;
   height: 100px;
-  padding-top: 10px;
-  padding-bottom: 45px;
+  padding-top: 0.1%;
+  padding-bottom: 3%;
 }
 
 #header-tag{
   font-size: 350%;
-  font-family: fantasy;
+  font-family: luminari, fantasy;
   color: white;
   text-shadow: 5px 10px 10px red;
 }
@@ -66,7 +61,7 @@
 
 .book-list {
   padding-left: 5%;
-  padding-right: 5%; 
+  padding-right: 5%;
   text-align: center;
 }
 
@@ -86,15 +81,91 @@
   padding-bottom: 20px;
 }
 
-#h1 {
-  padding-bottom: 10px;
+.h1 {
+  margin: 0;
+  margin-top: 2%;
+  font-family: impact;
+  font-size: 60px;
+  text-decoration: underline overline;  
+  color: white;
+}
+
+.review-header {
+  font-family: impact;
+  font-size: 60px;
+  text-decoration: underline overline;  
+  color: white;
 }
 
 #search {
   float: right;
-  padding-top: 30px;
+  margin-right: 120px;
+  margin-top: -140px;
+  display: flex;
+  border: 5px solid rgba(121, 49, 49, 0.866);
+}
+
+#search-input {
+  width: 200px;
+  text-align: center;
+}
+
+#form {
+  margin-right: 5%;
+  margin-left: 5%;
+  padding-top: 3%
+}
+
+#reviews {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-right: 30%;
+  margin-left: 30%;
+}
+
+#review-button {
+  width: 100px;
+  margin-left: 42%;
+  font-size: 15px;
+}
+
+.review-input {
+  font-size: 15px;
+  padding: 10px;
+}
+
+textarea {
+  padding: 10px;
+}
+
+.book-name {
+  font-family: serif;
+  font-variant: small-caps;
+  color: white;
+}
+
+.authors {
+  font-family: serif;
+  color: white;
+}
+
+.summary {
+  font-family: monospace;
+  color: white;
+}
+
+.review-text {
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
 }
 
 body {
-  background-color: rgba(149, 141, 141, 0.876);
+  background-image: url('https://wallpapercave.com/wp/wp9589084.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
 }
