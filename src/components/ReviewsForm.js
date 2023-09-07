@@ -27,8 +27,7 @@ function ReviewsForm({reviews, addReview}) {
             <form id='reviews' onSubmit={handleSubmit}>
                 <input className='review-input' onChange={handleChange} value={formInput.name} type='text' name='name' placeholder='Book Name' />
                 <input className='review-input' onChange={handleChange} value={formInput.author} type='text' name='author' placeholder='Book Author' />
-                <textarea id='textbox' rows="10" col="20" wrap="hard" maxLength="2000" placeholder="Thoughts..."></textarea>
-                {/* <input onChange={handleChange} value={formInput.review} type='text' name='review' placeholder='Thoughts...' /> */}
+                <textarea onChange={handleChange} value={formInput.review}  name='review' id='textbox' rows="10" col="20" wrap="hard" maxLength="2000" placeholder="Thoughts..."></textarea>
                 <button id='review-button' type='submit'>Publish 🖊</button>
             </form>
             <div id='form'>

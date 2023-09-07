@@ -120,5 +120,34 @@
       "review": "The Dispossessed is phenomenal, one of the best SF novels of all time. I'll echo the recommendation for diving into more of her Hainish works. In addition to other novels, there are tons of shorter works that dive into other worlds with various social systems. Le Guin's background (her father was a famous anthropologist) really comes through in her work. You're right on the ideology, it's basically anarcho-syndicalism with Daoist influences. I actually first read The Dispossessed around the time I read George Orwell's Homage to Catalonia and it was a fascinating comparison. In some of Le Guin's collections you may find “The Day Before the Revolution,” a short story about Odo before the anarchists went to Anarres."
     }
   ],
-  "favorites": []
+  "favorites": [
+    {
+      "id": 1,
+      "name": "Dune",
+      "author": "Frank Herbert",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
+      "summary": "It tells the story of young Paul Atreides, whose family accepts the stewardship of the planet Arrakis. While the planet is an inhospitable and sparsely populated desert wasteland, it is the only source of melange, or 'spice', a drug that extends life and enhances mental abilities."
+    },
+    {
+      "id": 2,
+      "name": "1984",
+      "author": "George Orwell",
+      "image": "https://m.media-amazon.com/images/I/41gH8Q32oFL.jpg",
+      "summary": "The story of a man questioning the system that keeps his futuristic but dystopian society afloat and the chaos that quickly ensues once he gives in to his natural curiosity and desire to be free."
+    },
+    {
+      "id": 9,
+      "name": "A Clockwork Orange",
+      "author": "Anthony Burgess",
+      "image": "https://m.media-amazon.com/images/I/61ZOrcA12tL._AC_UF1000,1000_QL80_.jpg",
+      "summary": "Set in a dismal dystopian England, it is the first-person account of a juvenile delinquent who undergoes state-sponsored psychological rehabilitation for his aberrant behaviour. The novel satirizes extreme political systems that are based on opposing models of the perfectibility or incorrigibility of humanity."
+    },
+    {
+      "id": 11,
+      "name": "The Lord of the Rings",
+      "author": "J. R. R. Tolkien",
+      "image": "https://prodimage.images-bn.com/pimages/9780063271265_p0_v2_s1200x630.jpg",
+      "summary": "Frodo, a Christlike figure, learns that the ring has the power to control the entire world and, he discovers, to corrupt its owner. A fellowship of hobbits, elves, dwarfs, and men is formed to destroy the ring by casting it into the volcanic fires of the Crack of Doom, where it was forged."
+    }
+  ]
 }
