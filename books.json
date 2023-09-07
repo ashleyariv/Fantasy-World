@@ -1,0 +1,130 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Dune",
+      "author": "Frank Herbert",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
+      "summary": "It tells the story of young Paul Atreides, whose family accepts the stewardship of the planet Arrakis. While the planet is an inhospitable and sparsely populated desert wasteland, it is the only source of melange, or 'spice', a drug that extends life and enhances mental abilities."
+    },
+    {
+      "id": 2,
+      "name": "1984",
+      "author": "George Orwell",
+      "image": "https://m.media-amazon.com/images/I/41gH8Q32oFL.jpg",
+      "summary": "The story of a man questioning the system that keeps his futuristic but dystopian society afloat and the chaos that quickly ensues once he gives in to his natural curiosity and desire to be free."
+    },
+    {
+      "id": 3,
+      "name": "The Dispossesed",
+      "author": "Ursula K. Le Guin",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353467455i/13651.jpg",
+      "summary": "The Dispossessed tells the story of Shevek, a physicist from the anarchist society of Anarres who returns to Urras, the planet from where his ancestors departed about 200 years ago, in order to 'unbuild walls' (8) that have kept the twin planets apart both in ideological and practical terms, with only sparse and slow communication between them."
+    },
+    {
+      "id": 4,
+      "name": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "image": "https://schsnews.org/wp-content/uploads/2022/05/OwCsiy0XTOJMjoWuZ3lBB4ldNvUfsBv03KaytcSt-603x900.jpeg",
+      "summary": "Fahrenheit 451 tells the story of Guy Montag and his transformation from a book-burning fireman to a book-reading rebel. Montag lives in an oppressive society that attempts to eliminate all sources of complexity, contradiction, and confusion to ensure uncomplicated happiness for all its citizens."
+    },
+    {
+      "id": 5,
+      "name": "The Martian",
+      "author": "Andy Weir",
+      "image": "https://static01.nyt.com/images/2014/02/05/books/05before-and-after-slide-T6H2/05before-and-after-slide-T6H2-superJumbo.jpg?quality=75&auto=webp&disable=upscale",
+      "summary": "The Martian tells the story of Mark Watney, an astronaut on the Ares 3 mission to Mars. After a terrible storm almost destroys the ship and the base, the crew of his ship believe he is dead. Alone on the red planet, he has to survive until the next mission to Mars arrives."
+    },
+    {
+      "id": 6,
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/25/1435245979235/047c9878-9845-473c-9635-5f32545746b0-1355x2040.jpeg?width=700&quality=85&auto=format&fit=max&s=606433bda33c8c27c5ebd7ba85900473",
+      "summary": "The Hitchhiker's Guide centers on permanently bemused human protagonist Arthur Dent, who wanders the Universe after the destruction of Earth with alien travel writer Ford Prefect and a crew of oddities including two-headed galactic president Zaphod Beeblebrox, an unhappy robot named Marvin and Trillian, an astrophysicist."
+    },
+    {
+      "id": 7,
+      "name": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "image": "https://www.marshall.edu/library/files/2021/09/slaughterhouse5.jpg",
+      "summary": "Slaughterhouse-Five's central topic is the horror of the Dresden bombing. As a witness to the destruction, Billy confronts fundamental questions about the meanings of life and death. Traumatized by the events in Dresden, Billy can provide no answers."
+    },
+    {
+      "id": 8,
+      "name": "Ender's Game",
+      "author": "Orson Scott Card",
+      "image": "https://m.media-amazon.com/images/I/51YfSAtW63L.jpg",
+      "summary": "The novel tells the story of a young boy, Ender Wiggin, who is sent to a training academy named Battle School, located in orbit above the Earth, built to train people to become soldiers that will one day battle against a vast alien race known as 'Buggers'."
+    },
+    {
+      "id": 9,
+      "name": "A Clockwork Orange",
+      "author": "Anthony Burgess",
+      "image": "https://m.media-amazon.com/images/I/61ZOrcA12tL._AC_UF1000,1000_QL80_.jpg",
+      "summary": "Set in a dismal dystopian England, it is the first-person account of a juvenile delinquent who undergoes state-sponsored psychological rehabilitation for his aberrant behaviour. The novel satirizes extreme political systems that are based on opposing models of the perfectibility or incorrigibility of humanity."
+    },
+    {
+      "id": 10,
+      "name": "Kindred",
+      "author": "Octavia E. Butler",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/57/OctaviaEButler_Kindred.jpg",
+      "summary": "Kindred includes Dana time traveling back to the 1800s in Maryland from 1976. She is required to save the life of her ancestor, Rufus, each time she returns to the past in order to ensure that her ancestral line survives."
+    },
+    {
+      "id": 11,
+      "name": "The Lord of the Rings",
+      "author": "J. R. R. Tolkien",
+      "image": "https://prodimage.images-bn.com/pimages/9780063271265_p0_v2_s1200x630.jpg",
+      "summary": "Frodo, a Christlike figure, learns that the ring has the power to control the entire world and, he discovers, to corrupt its owner. A fellowship of hobbits, elves, dwarfs, and men is formed to destroy the ring by casting it into the volcanic fires of the Crack of Doom, where it was forged."
+    },
+    {
+      "id": 12,
+      "name": "The Chronicles of Narnia",
+      "author": "C. S. Lewis",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/cb/The_Chronicles_of_Narnia_box_set_cover.jpg",
+      "summary": "The Chronicles of Narnia follows a group of children who are evacuated to the English countryside during WWII. The books tell of the their adventures in the imaginary kingdom of Narnia, guided by a talking lion named Aslan, as they fight the White Witch and restore the throne to its rightful line."
+    },
+    {
+      "id": 13,
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "author": "J. K. Rowling",
+      "image": "https://frugalbookstore.net/cdn/shop/products/sorcerer_s.jpg?v=1675226870",
+      "summary": "The book is about 11 year old Harry Potter, who receives a letter saying that he is invited to attend Hogwarts, school of witchcraft and wizardry. He then learns that a powerful wizard and his minions are after the sorcerer's stone that will make this evil wizard immortal and undefeatable."
+    },
+    {
+      "id": 14,
+      "name": "A Game of Thrones",
+      "author": "George R. R. Martin",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/93/AGameOfThrones.jpg",
+      "summary": "A Game of Thrones takes place over the course of one year on or near the fictional continent of Westeros. The story begins when King Robert visits the northern castle Winterfell to ask Ned Stark to be his right-hand assistant, or Hand of the King. The previous Hand, Jon Arryn, died under suspicious circumstances."
+    },
+    {
+      "id": 15,
+      "name": "Maximum Ride: The Angel Experiment",
+      "author": "James Patterson",
+      "image": "https://m.media-amazon.com/images/I/91Td2ZvUGzL._AC_UF1000,1000_QL80_.jpg",
+      "summary": "The Flock, led by Maximum 'Max' Ride, are a group of kids genetically altered to have wings. They live in hiding in a house in the woods after being freed by one of the scientists, Jeb Batchelder, now presumed deceased."
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Dune",
+      "author": "Frank Herbert",
+      "review": "Dune, the name is thrilling in itself. A lot can be said about this beautiful world-building by Frank Herbert. It had me thrilled from the start. This is truly an example of the sheer brilliance of a science fiction novel. The characters are super good in this book. The protagonist was a complex one that even his mother couldn't understand at times. The side characters were likeable too, each one of them having their own characteristics. The setting and complexities of the habitat in which Arrakis, the desert planet is set are commendable. Surely, it would have taken a lot of imagination to create something like this. But the best thing about this novel was that how it connects with the philosophies of real-life and how it can impact an individual."
+    },
+    {
+      "id": 2,
+      "name": "The Dispossesed",
+      "author": "Ursula K. Le Guin",
+      "review": "The Dispossessed is phenomenal, one of the best SF novels of all time. I'll echo the recommendation for diving into more of her Hainish works. In addition to other novels, there are tons of shorter works that dive into other worlds with various social systems. Le Guin's background (her father was a famous anthropologist) really comes through in her work. You're right on the ideology, it's basically anarcho-syndicalism with Daoist influences. I actually first read The Dispossessed around the time I read George Orwell's Homage to Catalonia and it was a fascinating comparison. In some of Le Guin's collections you may find “The Day Before the Revolution,” a short story about Odo before the anarchists went to Anarres."
+    },
+    {
+      "name": "Nina's Book ",
+      "author": "Nina",
+      "review": "This is a good book!",
+      "id": 3
+    }
+  ],
+  "favorites": []
+}
