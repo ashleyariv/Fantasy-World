@@ -279,6 +279,111 @@
       "author": "Gregory Maguire",
       "image": "https://karinbeery.com/wp-content/uploads/2021/12/wicked.jpg",
       "summary": "It is presented as a biography of the Wicked Witch of the West, here given the name 'Elphaba.' The book follows Elphaba from her birth as the result of a rape through her radicalization, social ostracism, and finally her death at the hands of Dorothy Gale."
+    },
+    {
+      "id": 41,
+      "name": "American Gods",
+      "author": "Neil Gaiman",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/American_gods.jpg/220px-American_gods.jpg",
+      "summary": "Shadow is an ex-convict who is released from prison three days early when his wife Laura is killed in a car accident. Shadow is devastated by her death, and is distraught to learn that she died alongside his best friend Robbie, with whom she had been having an affair."
+    },
+    {
+      "id": 42,
+      "name": "The Eye of the World",
+      "author": "Robert Jordan",
+      "image": "https://m.media-amazon.com/images/I/81tBoQP5V+L._AC_UF1000,1000_QL80_.jpg",
+      "summary": "The Eye of the World revolves around the three boys from Emond's Field and that has also drawn the attention of Ba'alzamon. Their regular country lives are thrown into chaos and they must flee and fight back against Trollocs as they make their way across the country."
+    },
+    {
+      "id": 43,
+      "name": "The Dragon Reborn",
+      "author": "Robert Jordan",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/97/WoT03_TheDragonReborn.jpg",
+      "summary": "Rand al'Thor, having been declared the Dragon Reborn by Moiraine Damodred, secretly goes to Tear to prove himself. Along the way he is hunted by Darkhounds and Darkfriends. After leaving in secret, Moiraine, Lan Mandragoran, the Ogier Loial, and Perrin Aybara follow always one step behind."
+    },
+    {
+      "id": 44,
+      "name": "Neuromancer",
+      "author": "William Gibson",
+      "image": "https://images.squarespace-cdn.com/content/v1/51ad3961e4b0ae1d9bf5b6f1/a4f2090e-148f-4ca0-9174-48765db17223/William-Gibson-Neuromancer-Cyberpunk-Cover-Web.jpg?format=1000w",
+      "summary": "It is set on Earth in the near future and its plot involves mercenary and cyber-hacking characters who must work (or rebel) under the control of megacorporations and artificial intelligence."
+    },
+    {
+      "id": 45,
+      "name": "Stranger in a Strange Land",
+      "author": "Robert A. Heinlein",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1156897088i/350.jpg",
+      "summary": "Stranger in a Strange Land centres on a human raised on Mars who comes to Earth and challenges customs relating to sex, death, religion, and money."
+    },
+    {
+      "id": 46,
+      "name": "The Stand",
+      "author": "Stephen King",
+      "image": "https://d3myrwj42s63no.cloudfront.net/300/030/774/368/3/0307743683.jpg",
+      "summary": "The plot centers on a deadly pandemic of weaponized influenza and its aftermath, in which the few surviving humans gather into factions that are each led by a personification of either good or evil and seem fated to clash with each other."
+    },
+    {
+      "id": 47,
+      "name": "Snow Crash",
+      "author": "Neal Stephenson",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589842551i/40651883.jpg",
+      "summary": "Snow Crash revolves around Hiro, a pizza deliveryman and freelance hacker (so far, so 90s) who's roped into an investigation of an apocalyptic virus alongside his new sidekick, Y.T., a young skateboard courier surfing the freeways of near-future LA."
+    },
+    {
+      "id": 48,
+      "name": "Starship Troopers",
+      "author": "Robert A. Heinlein",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/Starship_Troopers_%28novel%29.jpg",
+      "summary": "The first-person narrative follows Juan 'Johnny' Rico, a young man of Filipino descent, through his military service in the Mobile Infantry. He progresses from recruit to officer against the backdrop of an interstellar war between humans and an alien species known as 'Arachnids' or 'Bugs'."
+    },
+    {
+      "id": 49,
+      "name": "Flowers for Algernon",
+      "author": "Daniel Keyes",
+      "image": "https://pylesofbooks.files.wordpress.com/2019/01/flowersforalgernon.jpg",
+      "summary": "Algernon is a laboratory mouse who has undergone surgery to increase his intelligence. The story is told by a series of progress reports written by Charlie Gordon, the first human subject for the surgery, and it touches on ethical and moral themes such as the treatment of the mentally disabled."
+    },
+    {
+      "id": 50,
+      "name": "Twenty Thousand Leagues Under the Sea",
+      "author": "Jules Verne",
+      "image": "https://m.media-amazon.com/images/I/71zc4dyOnAL._AC_UF1000,1000_QL80_.jpg",
+      "summary": "Twenty Thousand Leagues Under the Sea tells the story of three men who go to sea in search of a giant whale. They are taken prisoner on board the world's first submarine, the Nautilus. The Nautilus travels through the world's seas. The men see amazing deep-sea creatures, and they travel to remote islands."
+    },
+    {
+      "id": 51,
+      "name": "The War of the Worlds",
+      "author": "H. G. Wells",
+      "image": "https://m.media-amazon.com/images/I/51Uvh63U4vL.jpg",
+      "summary": "The War of the Worlds is a landmark science fiction, its nameless narrator provides a firsthand account of the arrival of Martians in the area surrounding London and their subsequent devastation of central England."
+    },
+    {
+      "id": 52,
+      "name": "Neverwhere",
+      "author": "Neil Gaiman",
+      "image": "https://images.booksense.com/images/058/371/9780062371058.jpg",
+      "summary": "It is the story of Richard Mayhew, a young London businessman with a good heart and an ordinary life, which is changed forever when he discovers a girl bleeding on the sidewalk. He stops to help her—an act of kindness that plunges him into a world he never dreamed existed."
+    },
+    {
+      "id": 53,
+      "name": "The Last Unicorn",
+      "author": "Peter S. Beagle",
+      "image": "https://m.media-amazon.com/images/I/81NnAGwjcVL._AC_UF1000,1000_QL80_.jpg",
+      "summary": "The Last Unicorn follows the tale of a unicorn, who believes she is the last of her kind in the world and undertakes a quest to discover what has happened to the other unicorns."
+    },
+    {
+      "id": 54,
+      "name": "Small Gods",
+      "author": "Terry Pratchett",
+      "image": "https://www.terrypratchettbooks.com/wp-content/uploads/2019/05/9781804990193-scaled.jpg",
+      "summary": "Small Gods tells the origin of the god Om, and his relations with his prophet, the reformer Brutha. In the process, it satirises philosophy, religious institutions, people, and practices, and the role of religion in political life."
+    },
+    {
+      "id": 55,
+      "name": "Going Postal",
+      "author": "Terry Pratchett",
+      "image": "https://www.terrypratchettbooks.com/wp-content/uploads/2019/05/Going-Postal_PB.jpg",
+      "summary": "Set in Pratchett's wonderfully crazed city of Ankh-Morpork, Going Postal hilariously reflects the plight of post offices the world over as they struggle to compete in an era when e-mail has stolen much of the glamour from the postal trade."
     }
   ],
   "reviews": [
@@ -296,13 +401,6 @@
     }
   ],
   "favorites": [
-    {
-      "id": 1,
-      "name": "Dune",
-      "author": "Frank Herbert",
-      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
-      "summary": "It tells the story of young Paul Atreides, whose family accepts the stewardship of the planet Arrakis. While the planet is an inhospitable and sparsely populated desert wasteland, it is the only source of melange, or 'spice', a drug that extends life and enhances mental abilities."
-    },
     {
       "id": 2,
       "name": "1984",
