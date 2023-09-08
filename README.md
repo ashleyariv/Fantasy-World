@@ -12,7 +12,11 @@ Inspired by goodreads, "Fantasy World" is a wedpage designed for you to browse s
 
 ---
 ## Setup 
--> Open the page in the terminal of the project by typing:
+-> First install all the modules by opening a terminal and typing: 
+```
+npm install
+```
+-> Open the page in the terminal by typing:
 ```
 npm start
 ```

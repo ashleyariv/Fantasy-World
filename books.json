@@ -104,6 +104,181 @@
       "author": "James Patterson",
       "image": "https://m.media-amazon.com/images/I/91Td2ZvUGzL._AC_UF1000,1000_QL80_.jpg",
       "summary": "The Flock, led by Maximum 'Max' Ride, are a group of kids genetically altered to have wings. They live in hiding in a house in the woods after being freed by one of the scientists, Jeb Batchelder, now presumed deceased."
+    },
+    {
+      "id": 16,
+      "name": "Foundation",
+      "author": "Isaac Asimov",
+      "image": "https://m.media-amazon.com/images/I/41sIWKtP-4L.jpg",
+      "summary": "For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Seldon, creator of the revolutionary science of psychohistory, can see into the future--to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years."
+    },
+    {
+      "id": 17,
+      "name": "Brave New World",
+      "author": "Aldous Huxley",
+      "image": "https://m.media-amazon.com/images/I/71aDrgLp9CL._AC_UF1000,1000_QL80_.jpg",
+      "summary": "The novel examines a futuristic society, called the World State, that revolves around science and efficiency. In this society, emotions and individuality are conditioned out of children at a young age, and there are no lasting relationships because “every one belongs to every one else” (a common World State dictum)."
+    },
+    {
+      "id": 18,
+      "name": "The Princess Bride",
+      "author": "William Goldman",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327903636i/21787.jpg",
+      "summary": "Beautiful, flaxen-haired Buttercup has fallen for Westley, the farm boy, and when he departs to make his fortune, she vows never to love another. So when she hears that his ship has been captured by the Dread Pirate Roberts - who never leaves survivors - her heart is broken."
+    },
+    {
+      "id": 19,
+      "name": "Animal Farm",
+      "author": "George Orwell",
+      "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781839642395/animal-farm-9781839642395_hr.jpg",
+      "summary": "It tells the story of a group of anthropomorphic farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy. Ultimately, the rebellion is betrayed, and under the dictatorship of a pig named Napoleon, the farm ends up in a state as bad as it was before."
+    },
+    {
+      "id": 20,
+      "name": "I, Robot",
+      "author": "Isaac Asimov",
+      "image": "https://d3525k1ryd2155.cloudfront.net/h/205/779/1511779205.0.l.jpg",
+      "summary": "I, Robot, a collection of nine short stories by science-fiction writer Isaac Asimov that imagines the development of “positronic” (humanlike, with a form of artificial intelligence) robots and wrestles with the moral implications of the technology."
+    },
+    {
+      "id": 21,
+      "name": "Frankenstein",
+      "author": "Mary Shelley",
+      "image": "https://s3.amazonaws.com/adg-bucket/frankenstein-mary-shelley/2233-medium.jpg",
+      "summary": "Frankenstein tells the story of gifted scientist Victor Frankenstein who succeeds in giving life to a being of his own creation. However, this is not the perfect specimen he imagines that it will be, but rather a hideous creature who is rejected by Victor and mankind in general."
+    },
+    {
+      "id": 22,
+      "name": "2001, A Space Odyssey",
+      "author": "Arthur C. Clarke",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432468943i/70535.jpg",
+      "summary": "The story follows the growth of human civilization from primitive hominids. Distinctively, Space Odyssey is concerned about not only the evolution that has led to the development of humanity, but also the evolution that humanity might undergo in the future. Hence, we follow Bowman as he is turned into a Star Child."
+    },
+    {
+      "id": 23,
+      "name": "Cat's Cradle",
+      "author": "Kurt Vonnegut",
+      "image": "https://m.media-amazon.com/images/I/81NIfUlv2DL._AC_UF1000,1000_QL80_.jpg",
+      "summary": "In Cat's Cradle (1963) some Caribbean islanders, who practice a religion consisting of harmless trivialities, come into contact with a substance discovered by an atomic scientist that eventually destroys all life on Earth."
+    },
+    {
+      "id": 24,
+      "name": "A Canticle for Leibowitz",
+      "author": "Walter M. Miller Jr.",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450516880i/164154.jpg",
+      "summary": "A Canticle for Leibowitz is a post-apocalyptic social science fiction novel. Set in a Catholic monastery in the desert of the southwestern United States after a devastating nuclear war, the book spans thousands of years as civilization rebuilds itself."
+    },
+    {
+      "id": 25,
+      "name": "The War of the End of the World",
+      "author": "Mario Vargas Llosa",
+      "image": "https://m.media-amazon.com/images/I/81vZAOEEonL._AC_UF1000,1000_QL80_.jpg",
+      "summary": "In an epic final clash, a whole army is sent to extirpate Canudos and instigates a terrible and brutal battle with the poor while politicians of the old order see their world destroyed in the conflagration."
+    },
+    {
+      "id": 26,
+      "name": "Nine Princes in Amber",
+      "author": "Roger Zelazny",
+      "image": "https://d3525k1ryd2155.cloudfront.net/h/490/580/440580490.0.x.jpg",
+      "summary": "In the story, Carl Corey wakes up in a secluded New York hospital with amnesia. He escapes and investigates, discovering the truth, piece by piece: he is really Prince Corwin, of Amber, the one true world of which the Earth is just a shadow."
+    },
+    {
+      "id": 27,
+      "name": "The Mists of Avalon",
+      "author": "Marion Zimmer Bradley",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/37/Mists_of_Avalon-1st_ed.jpg",
+      "summary": "The Mists of Avalon is an epic tale of love, loyalty, betrayal, kingship, and magic. It takes place over several decades and two generations. It tells the fabled tale of Camelot and the Knights of the Round Table. Taking a different view from the legend, it is told from the perspective of the women of Avalon."
+    },
+    {
+      "id": 28,
+      "name": "Ringworld",
+      "author": "Larry Niven",
+      "image": "https://m.media-amazon.com/images/I/51d7TuzknhL.jpg",
+      "summary": "Ringworld tells the story of Louis Wu and his companions on a mission to the Ringworld, a rotating wheel artificial world, an alien construct in space 186 million miles (299 million kilometres) in diameter."
+    },
+    {
+      "id": 29,
+      "name": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "image": "https://m.media-amazon.com/images/I/91AMkAkM6eL._AC_UF1000,1000_QL80_.jpg",
+      "summary": "The Left Hand of Darkness tells the story of a lone human emissary to Winter, an alien world whose inhabitants can change their gender. His goal is to facilitate Winter's inclusion in a growing intergalactic civilization."
+    },
+    {
+      "id": 30,
+      "name": "the Silmarillion",
+      "author": "J. R. R. Tolkien",
+      "image": "https://m.media-amazon.com/images/I/41DC+nuiFFL.jpg",
+      "summary": "The Silmarillion is the history of the rebellion of Fëanor and his kindred against the gods, their exile from Valinor and return to Middle-earth, and their war, hopeless despite all their heroism, against the great Enemy."
+    },
+    {
+      "id": 31,
+      "name": "Contact",
+      "author": "Carl Sagan",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Contact_Sagan.jpg",
+      "summary": "The story primarily revolves around Dr. Eleanor 'Ellie' Arroway, a brilliant scientist and radio astronomer who becomes the focal point of humanity's first contact with an alien civilization. Through her tireless efforts, Ellie and her team at the Arecibo Observatory in Puerto Rico discover a series of mysterious signals originating from the star Vega, more than 25 light-years away."
+    },
+    {
+      "id": 32,
+      "name": "Stardust",
+      "author": "Neil Gaiman",
+      "image": "https://m.media-amazon.com/images/I/415mLXznHzL.jpg",
+      "summary": "Young Tristran Thorn has lost his heart to the beautiful Victoria Forester and, to win her love, vows to bring her a star they see fall from the night sky. It is an oath that sends him over the town's ancient wall and into the mysterious land of Faerie - a world that is dangerous and strange beyond imagining ."
+    },
+    {
+      "id": 33,
+      "name": "World War Z",
+      "author": "Max Brooks",
+      "image": "https://www.duckworthbooks.co.uk/wp-content/uploads/2021/12/9780715653739.jpg",
+      "summary": "World War Z chronicles the stories of people from all walks of life, from military scientists, to blind old Japanese men, to astronauts aboard the ISS, and their stories of how they survived the terrors of the assault of the living dead."
+    },
+    {
+      "id": 34,
+      "name": "Fantastic Beasts and Where to Find Them",
+      "author": "J. K. Rowling",
+      "image": "https://m.media-amazon.com/images/I/51XXxJ0uQzL.jpg",
+      "summary": "Fantastic Beasts follows a magical young man named Newt on a journey to find his beasts that escaped. Newt Scamander is a wizard unlike any other, he uses not only his powers but the powers of his magical animals."
+    },
+    {
+      "id": 35,
+      "name": "Roadside Picnic",
+      "author": "Arkady Strugatsky and Boris Strugatsky",
+      "image": "https://m.media-amazon.com/images/I/71bTfyuIBeL._AC_UF1000,1000_QL80_.jpg",
+      "summary": "The story revolves around Redrick 'Red' Schuhart, a tough and experienced young stalker who regularly enters the Zone illegally at night in search of valuable artifacts for profit. Trying to clean up his act, he becomes employed as a lab assistant at the International Institute, which studies the Zone."
+    },
+    {
+      "id": 36,
+      "name": "Jonathan Strange & Mr. Norrell",
+      "author": "Susanna Clarke",
+      "image": "https://markusmcdowell.com/wp-content/uploads/2018/02/cover-jonathan-strange-and-mr-norrell-1.jpg",
+      "summary": "This novel creates an alternate history in which magic is a part of England's history and its future. The two title characters engage in a battle over the proper use of that magic, leading to unintended consequences."
+    },
+    {
+      "id": 37,
+      "name": "Journey to the Center of the Earth",
+      "author": "Jules Verne",
+      "image": "https://mpd-biblio-covers.imgix.net/9781466803541.jpg",
+      "summary": "A geology professor, Otto Lidenbrock, and his nephew Axel discover and decode an ancient document that purports to show that a dormant volcano holds a secret entrance to a series of caverns leading to a subterranean world at the earth's center."
+    },
+    {
+      "id": 38,
+      "name": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "image": "https://m.media-amazon.com/images/I/41tqzW6kO7S.jpg",
+      "summary": "The story is about Katniss Everdeen, a sixteen-year-old girl. Her father died and now she has to kill animals for her family to eat. Her younger sister, Prim, is chosen to be a “tribute”, but Katniss volunteers to go instead. The other “tribute” from District 12 is a boy named Peeta."
+    },
+    {
+      "id": 39,
+      "name": "Divergent",
+      "author": "Veronica Roth",
+      "image": "https://d3525k1ryd2155.cloudfront.net/h/372/407/718407372.0.l.jpg",
+      "summary": "Divergent is a dark and thrilling young adult sci-fi series from best-selling author Veronica Roth. It's set in a post-apocalyptic Chicago that has separated its population into five Factions, each defined by a given set of values, personality traits, and social affiliations."
+    },
+    {
+      "id": 40,
+      "name": "Wicked",
+      "author": "Gregory Maguire",
+      "image": "https://karinbeery.com/wp-content/uploads/2021/12/wicked.jpg",
+      "summary": "It is presented as a biography of the Wicked Witch of the West, here given the name 'Elphaba.' The book follows Elphaba from her birth as the result of a rape through her radicalization, social ostracism, and finally her death at the hands of Dorothy Gale."
     }
   ],
   "reviews": [
